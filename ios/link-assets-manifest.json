@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/font/Centaur.ttf",
+      "sha1": "90a6bd01effe634b962c9dfcee9745fd8d9d56d6"
+    },
+    {
+      "path": "assets/font/Impact.ttf",
+      "sha1": "1cc231f6ba7e2c141e28db4eac92b211d4033df6"
+    },
+    {
+      "path": "assets/font/MinionPro-Bold.otf",
+      "sha1": "76b4e20f533cd714218f255507917b201a7e5228"
+    },
+    {
+      "path": "assets/font/MinionPro-Regular.otf",
+      "sha1": "245ba0d052471cdba157aa0292b9179048697442"
+    },
+    {
+      "path": "assets/font/MinionPro-Semibold.otf",
+      "sha1": "242b89a6f15ebdf1fc04211c4fca09c690ab2507"
+    },
+    {
+      "path": "assets/font/noorehuda.ttf",
+      "sha1": "1cf57cb39e1b5397e5bc1b472e24700f7d44de44"
+    },
+    {
+      "path": "assets/font/Roboto-Bold.ttf",
+      "sha1": "62442a18a9fe9457c1afeabf683d263a691b7798"
+    },
+    {
+      "path": "assets/font/Roboto-Light.ttf",
+      "sha1": "18788c5d630fa695f9283f6393bfa541b2031508"
+    },
+    {
+      "path": "assets/font/Roboto-Medium.ttf",
+      "sha1": "3c6a09fcc6a454924c81af7dff94fc6d399ed79b"
+    },
+    {
+      "path": "assets/font/Roboto-Regular.ttf",
+      "sha1": "56c5c0d38bde4c1f1549dda43db37b09c608aad3"
+    }
+  ]
+}
